@@ -1,0 +1,32 @@
+C:\Users\Cool Breeze\Documents\c#\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Cool Breeze\Documents\c#\Project\Project\bin\Debug\Project.exe
+C:\Users\Cool Breeze\Documents\c#\Project\Project\bin\Debug\Project.pdb
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.exe
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.pdb
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\Cool Breeze\Documents\c#\Project\Project\bin\Debug\Project.exe.manifest
+C:\Users\Cool Breeze\Documents\c#\Project\Project\bin\Debug\Project.application
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.exe.manifest
+C:\Users\Cool Breeze\Documents\c#\Project\Project\obj\Debug\Project.application
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.exe
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.pdb
+F:\Learn\Assigments\Project\Project\bin\Debug\Project.exe.config
+F:\Learn\Assigments\Project\Project\bin\Debug\Project.exe.manifest
+F:\Learn\Assigments\Project\Project\bin\Debug\Project.application
+F:\Learn\Assigments\Project\Project\bin\Debug\Project.exe
+F:\Learn\Assigments\Project\Project\bin\Debug\Project.pdb
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.Form1.resources
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.Form3.resources
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.Form4.resources
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.exe.manifest
+F:\Learn\Assigments\Project\Project\obj\Debug\Project.application
